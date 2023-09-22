@@ -56,3 +56,7 @@ Primero verifico si hay elementos en el arreglo `strs` y si no hay devuelvo un
 Mediante un bucle itero sobre las letras de la primera palabra, y con un bucle anidado voy iterando sobre las demás palabras, por eso el bucle se inicializa `j = 1` (el segundo elemento), para comprobar el prefijo común más largo, voy comprobando con un `if` si la letra en la posición de la primera letra coincide con la letra en la misma posición, pero de las otras palabras, **si coinciden** el bucle sigue iterando, **si no coincide** quiere decir que las letras son distintas, entonces devuelvo mediante el método `.slice()` el `string` correspondiente al prefijo que es común entre todos los `strings` (si lo hay).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673824135545/18893023-776a-4efd-949e-0484aa128c13.png?auto=compress,format&format=webp)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

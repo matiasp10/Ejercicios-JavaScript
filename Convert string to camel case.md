@@ -31,3 +31,7 @@ function toCamelCase(str) {
 
 [[JavaScript/Tipos de datos/String|String]]
 [[String.prototype.toUpperCase()]]
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

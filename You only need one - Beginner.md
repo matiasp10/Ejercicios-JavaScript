@@ -19,3 +19,7 @@ function check(a, x) {
   }
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

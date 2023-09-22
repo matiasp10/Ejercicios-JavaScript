@@ -22,3 +22,7 @@ function dominator(arr) {
   return Number(result[0][0]);
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

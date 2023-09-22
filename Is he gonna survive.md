@@ -18,3 +18,7 @@ function hero(bullets, dragons){
 ```
 
 [**Link del problema**](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/javascript)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

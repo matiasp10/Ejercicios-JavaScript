@@ -31,3 +31,7 @@ function bandNameGenerator(str) {
 [[JavaScript/Tipos de datos/String|String]]
 [[String.prototype.toUpperCase()]]
 [[String.prototype.slice()]]
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

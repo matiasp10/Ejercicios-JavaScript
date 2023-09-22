@@ -28,3 +28,6 @@ function countBy(x, n) {
 }
 ```
 
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

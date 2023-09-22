@@ -38,3 +38,7 @@ export const isLeap = (year) => {
 ```
 
 Primero compruebo si el año es divisible por 4, si lo es, entonces vuelvo a comprobar si también es divisible por 100 y por 400, entonces es bisiesto, pero si solo es divisible por 100 y no por 400, no es bisiesto, si no es divisible por 100 ni por 400, pero si es divisible por 4 entonces si es bisiesto, si no es divisible por 4 entonces no es bisiesto.
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

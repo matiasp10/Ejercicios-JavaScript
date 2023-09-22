@@ -25,3 +25,7 @@ function spinWords(string) {
   return spinWords.join(" ")
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

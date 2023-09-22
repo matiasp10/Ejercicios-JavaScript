@@ -27,3 +27,6 @@ function firstNonConsecutive(arr) {
 }
 ```
 
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

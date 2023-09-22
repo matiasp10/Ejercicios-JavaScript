@@ -12,7 +12,6 @@ pigIt('Hello world !');     // elloHay orldway !
 ## Link del problema
 
 [Problema](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript)
-
 ## Mi solución
 
 ```js
@@ -45,3 +44,7 @@ Finalmente devuelvo mediante un metodo `.join(" ")` del array que inicialice a
 -   [for...of](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/for...of)
 -   [if...else](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/if...else)
 -   [Latín de los cerdos](https://es.wikipedia.org/wiki/Pig_Latin)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

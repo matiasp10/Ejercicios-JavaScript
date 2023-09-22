@@ -27,3 +27,7 @@ export const gigasecond = (date) => {
 En una constante almacené el valor de lo que sería un giga segundo pasado a milisegundos para poder sumarlo posteriormente al objeto `Date`.
 
 Al final devuelvo una nueva fecha de la fecha que recibo en la función sumado un giga segundo.
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

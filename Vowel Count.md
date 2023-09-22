@@ -30,3 +30,7 @@ function getCount(str) {
   return count;
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

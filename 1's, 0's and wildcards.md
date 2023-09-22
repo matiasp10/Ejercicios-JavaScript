@@ -46,3 +46,7 @@ function possibilities(str) {
 
 - [[Array]]
 - 
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

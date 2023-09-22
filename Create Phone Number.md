@@ -27,5 +27,6 @@ function createPhoneNumber(numbers){
 - [[Array]]
 - [[Array.prototype.splice()]]
 
+__________
 
-
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

@@ -150,9 +150,6 @@ let getDiff = function(arr1, arr2) {
 };
 ```
 
-
-
-
 ```js
 const diff = (arr1, arr2) => [
   ...arr1.filter(e => !arr2.includes(e)),
@@ -162,3 +159,6 @@ const diff = (arr1, arr2) => [
 const sym = (...args) => [...new Set(args.reduce(diff))];
 ```
 
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

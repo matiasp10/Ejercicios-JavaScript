@@ -80,3 +80,7 @@ Una vez teniendo esos datos, con un condicional verifico si hay descuento, si no
 
 [[Number]]
 [[Operadores]]
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

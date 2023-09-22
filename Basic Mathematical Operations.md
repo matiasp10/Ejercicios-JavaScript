@@ -26,3 +26,7 @@ function basicOp(op, v1, v2){
 		        op === "/" ? v1 / v2 : null
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

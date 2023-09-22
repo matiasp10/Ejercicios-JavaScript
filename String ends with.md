@@ -23,3 +23,7 @@ function solution(str, ending){
 
 - [[JavaScript/String/String|String]]
 - [[String.prototype.endsWith()]]
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

@@ -30,3 +30,7 @@ function tablaMultiplicar(n) {
 
 tablaMultiplicar(5);
 ````
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

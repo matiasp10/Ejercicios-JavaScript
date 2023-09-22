@@ -26,3 +26,7 @@ function getGrade (s1, s2, s3) {
   if(average <= 100) return "A"
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

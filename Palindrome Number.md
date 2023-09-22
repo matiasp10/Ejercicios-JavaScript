@@ -73,3 +73,7 @@ Puedo concatenar métodos gracias a que los tipos de datos primitivos son objeto
 [https://es.javascript.info/prototype-inheritance](https://es.javascript.info/prototype-inheritance)
 
 Al final de la función mediante el operador ternario `?` devuelvo `true` si el número ingresado es igual al número dada vuelta, si no `false`.
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

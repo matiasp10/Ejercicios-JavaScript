@@ -52,3 +52,7 @@ function queueTime(customers, n) {
 ```
 
 [**Link del problema**](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/train/javascript)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

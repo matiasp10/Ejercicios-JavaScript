@@ -27,3 +27,7 @@ function bmi(weight, height) {
 ```
 
 [**Link del problema**](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/javascript)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

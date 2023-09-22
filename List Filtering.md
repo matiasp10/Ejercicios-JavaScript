@@ -25,3 +25,7 @@ function filter_list(l) {
   return stack
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

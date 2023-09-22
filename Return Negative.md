@@ -36,3 +36,7 @@ function makeNegative(num) {
 
 -   [Number](https://es.javascript.info/number)
 -   [If ... else](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/if...else)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

@@ -29,4 +29,7 @@ function fakeBin(x){
 ```
 
 - [[Array]]
-- 
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

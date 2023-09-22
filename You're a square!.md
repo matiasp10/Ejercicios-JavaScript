@@ -29,3 +29,7 @@ let isSquare = function (n) {
 
 -   [Math.sqrt()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt)
 -   [Number.isInteger()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

@@ -36,3 +36,7 @@ function printerError(s) {
   return errores + '/' + letras.length;
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

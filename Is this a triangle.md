@@ -19,3 +19,7 @@ function isTriangle(a,b,c){
     }
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

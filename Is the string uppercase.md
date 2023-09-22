@@ -36,3 +36,7 @@ String.prototype.isUpperCase = function() {
 - [[This]]
 - [[JavaScript/Tipos de datos/String]]
 - [[String.prototype.toUpperCase()]]
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

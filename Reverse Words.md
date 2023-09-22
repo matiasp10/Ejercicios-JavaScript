@@ -58,5 +58,8 @@ function reverseWords(str) {
 	return str.split('').reverse().join('').split(' ').reverse().join(' ');
 
 }
-
 ````
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

@@ -26,3 +26,6 @@ function invert(array) {
 }
 ```
 
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

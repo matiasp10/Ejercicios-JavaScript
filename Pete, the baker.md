@@ -53,3 +53,7 @@ Una vez que ya verifique y calcule cada ingrediente, cálculo mediante `Math.mi
 -   [for...in](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/for...in)
 -   [Math.floor()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
 -   [Spread syntax](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

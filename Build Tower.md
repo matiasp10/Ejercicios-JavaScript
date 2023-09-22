@@ -45,3 +45,7 @@ function towerBuilder(nFloors) {
 ```
 
 - [[Array]]
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

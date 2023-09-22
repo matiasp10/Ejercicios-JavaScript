@@ -25,3 +25,7 @@ function twoSum(numbers, target) {
     }
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

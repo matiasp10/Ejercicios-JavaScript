@@ -65,3 +65,7 @@ let twoSum = function (nums, target) {
 Recorro el `array` `nums` con un bucle `for`, para obtener el primer número que quiero sumar, y anido otro bucle `for` para obtener el segundo número que voy a sumar.
 
 Dentro de ambos bucles, con un condicional, `if` verifico que la posición del número exterior y la posición del número interior no sean la misma, ya que no puedo usar el mismo elemento dos veces, si no, verifico que la suma de ambos números coincida con el target y devuelvo un `array` con sus posiciones.
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

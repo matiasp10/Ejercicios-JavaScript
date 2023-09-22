@@ -22,3 +22,7 @@ function summation(num) {
   }
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

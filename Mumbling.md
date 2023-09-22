@@ -23,3 +23,7 @@ function accum(s) {
   return mumbling.join("-")
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

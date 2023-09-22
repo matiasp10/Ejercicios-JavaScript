@@ -29,3 +29,7 @@ function arrayDiff(a, b) {
   return stack;
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

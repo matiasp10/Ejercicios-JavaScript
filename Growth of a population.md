@@ -47,3 +47,7 @@ function nbYear(p0, percent, aug, p) {
   return years
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

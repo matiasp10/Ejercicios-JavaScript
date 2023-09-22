@@ -33,3 +33,7 @@ Inicializo una variable en la cual voy a colocar la suma de los múltiplos.
 Luego verifico si el número ingresado a la función es negativo en un condicional, preguntándome si es menor a 0 y devolviendo 0.
 
 En un bucle `for` voy recorriendo desde 0 al número ingresado a la función, y con un condicional voy encontrando todos aquellos valores que resto 3 o resto 5 den como resultado 0, lo cual verificaría que sea múltiplo de 3 o 5, si se da la condición le sumo ese número a la variable que inicialice al comienzo de la función y por último devuelvo esa variable que contiene la suma de los múltiplos.
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

@@ -13,3 +13,7 @@ function smash (words) {
    return words.join(" ")
 };
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

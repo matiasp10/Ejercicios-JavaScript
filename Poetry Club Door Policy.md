@@ -131,3 +131,7 @@ function backDoorPassword(word) {
 ```
 
 Utilizo la función que hice en el paso 2 para escribir correctamente la palabra, y solamente devuelvo ese `string` y agregado el `string` `", please"`.
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

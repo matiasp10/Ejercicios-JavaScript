@@ -31,3 +31,7 @@ function minimumPerimeter(area) {
   }
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

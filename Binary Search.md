@@ -47,3 +47,7 @@ var search = function(nums, target) {
 ```
 
 Simplemente, devuelvo con el operador ternario, si la condición de que el arreglo `nums` incluye el número `target`, entonces devuelvo el índice que contiene a target, si no devuelvo -1.
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

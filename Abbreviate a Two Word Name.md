@@ -31,3 +31,7 @@ function abbrevName(name) {
 
 -   [.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 -   [.toUpperCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

@@ -18,3 +18,6 @@ function countSheep(num){
 }
 ```
 
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

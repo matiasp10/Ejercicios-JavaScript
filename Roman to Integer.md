@@ -99,3 +99,7 @@ Teniendo en cuenta los casos de resta, reemplazo los casos de: **"IV", "IX", "X
 Mediante un bucle `for...of` recorro el `string` del número romano y voy obteniendo el valor de cada carácter del número romano y lo voy sumando a la variable `integer`.
 
 Al final devuelvo la variable `integer` donde tengo el número romano convertido a **entero**.
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

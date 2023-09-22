@@ -46,3 +46,7 @@ function openOrSenior(data){
 -   [For...of](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/for...of)
 -   [If ... else](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/if...else)
 -   [.push()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

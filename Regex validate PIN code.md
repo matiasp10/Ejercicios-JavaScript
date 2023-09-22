@@ -35,3 +35,7 @@ function validatePIN(pin){
   }
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

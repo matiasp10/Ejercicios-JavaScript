@@ -19,3 +19,7 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
   }
 };
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

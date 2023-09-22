@@ -37,3 +37,7 @@ function digitize(n) {
 	return Array.from(String(n), Number).reverse();
 }
 ````
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

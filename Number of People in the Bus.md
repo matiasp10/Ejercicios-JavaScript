@@ -28,3 +28,7 @@ function number(busStops){
   return onBus - offBus
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

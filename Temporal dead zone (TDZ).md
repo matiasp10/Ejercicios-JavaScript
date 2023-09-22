@@ -31,3 +31,7 @@ Aquí tienes algunos consejos para evitar la TDZ:
 - Siempre declara e inicializa las variables `let` y `const` antes de usarlas.
 - Usa la palabra clave `var` solo cuando sea estrictamente necesario.
 - Usa la depuración para identificar los errores causados por la TDZ.
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]

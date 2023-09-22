@@ -15,3 +15,7 @@ function getAge(inputString){
   return Number(inputString.split(" ")[0])
 }
 ```
+
+__________
+
+[[Ejercicios JavaScript/Ejercicios|Ejercicios]]
