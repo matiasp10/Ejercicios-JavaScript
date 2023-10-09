@@ -1,9 +1,8 @@
 Se le da una matriz de enteros de longitud impar, en la que todos son iguales, excepto un único número.  
   
 Completa el método que acepta dicha matriz y devuelve ese único número diferente.  
-  
-¡La matriz de entrada siempre será válida! (longitud impar >= 3)
 
+¡La matriz de entrada siempre será válida! (longitud impar >= 3)
 ## Ejemplos
 
 ```js
