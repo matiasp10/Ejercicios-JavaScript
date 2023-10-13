@@ -1,6 +1,6 @@
 ## Introducción 
 
-Una función es un bloque de código organizado y reutilizable que se utiliza para realizar alguna acción. Existen múltiples formas de definir funciones en JavaScript. Aquí veremos las declaraciones de función y las expresiones de función. Otras posibilidades, como las funciones de flecha, se tratarán en otros conceptos.
+Una función es *un bloque de código organizado y reutilizable que se utiliza para realizar alguna acción*. Existen múltiples formas de definir funciones en JavaScript. Aquí veremos las declaraciones de función y las expresiones de función. Otras posibilidades, como las funciones de flecha, se tratarán en otros conceptos.
 ### Declaración de funciones
 
 La forma estándar de definir una función en JavaScript es *una declaración de función, también llamada definición de función o declaración de función*.  
