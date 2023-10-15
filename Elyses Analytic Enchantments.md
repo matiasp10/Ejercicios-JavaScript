@@ -18,7 +18,7 @@ getCardPosition([9, 7, 3, 2], card);
 
 ```js
 export function getCardPosition(stack, card) {
-  return stack.findIndex((num)=>num === card)
+  return stack.indexOf(card)
 }
 ```
 ## 2. Determinar si una carta está presente  
