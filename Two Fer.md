@@ -9,7 +9,6 @@ ___
 ## Instrucciones 
 
 Tu tarea consiste en determinar qué dirás mientras regalas la galleta extra.  
-  
 Si a tu amigo le gustan las galletas y se llama Do-yun, entonces dirás:
 
 ```
