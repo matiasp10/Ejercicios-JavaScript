@@ -1,9 +1,7 @@
 #8kyu 
-
 # ¿La cadena está en mayúsculas?
 
 Crear un método para ver si la cadena es TODO MAYÚSCULAS.
-
 ## Ejemplo
 
 ```
@@ -16,11 +14,9 @@ Crear un método para ver si la cadena es TODO MAYÚSCULAS.
 ```
 
 En esta Kata, se dice que una cadena está en TODAS MAYÚSCULAS siempre que no contenga ninguna letra minúscula, por lo que cualquier cadena que no contenga ninguna letra se considera trivialmente que está en TODAS MAYÚSCULAS.
-
 ## Link del problema
 
 https://www.codewars.com/kata/56cd44e1aa4ac7879200010b
-
 ## Mi solución
 
 ```js

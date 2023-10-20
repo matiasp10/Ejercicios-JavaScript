@@ -1,3 +1,5 @@
+#6kyu 
+___
 Escriba una función que tome una matriz de números (enteros para las pruebas) y un número objetivo. Debe encontrar dos elementos diferentes en la matriz que, cuando se suman, dan el valor objetivo. Los índices de estos elementos deben ser devueltos en una tupla / lista (dependiendo de su idioma) así: (índice1, índice2).  
   
 Para los propósitos de esta kata, algunas pruebas pueden tener múltiples respuestas; cualquier solución válida será aceptada.  

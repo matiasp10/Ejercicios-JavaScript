@@ -1,3 +1,5 @@
+#8kyu 
+___
 El reloj muestra `h` horas, `m` minutos y `s` segundos después de medianoche.  
   
 Tu tarea es escribir una función que devuelva el tiempo transcurrido desde medianoche en milisegundos.

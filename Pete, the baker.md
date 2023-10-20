@@ -1,3 +1,5 @@
+#5kyu 
+___
 # Pete, el pastelero
 
 A Pete le gusta hacer pasteles. Tiene algunas recetas e ingredientes. Por desgracia, no se le dan bien las matemáticas. ¿Puedes ayudarle a averiguar cuántos pasteles puede hacer teniendo en cuenta sus recetas?

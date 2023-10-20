@@ -1,3 +1,5 @@
+#8kyu 
+___
 Defina `String.prototype.toAlternatingCase` (o una función/método similar como `to_alternating_case`/`toAlternatingCase`/`ToAlternatingCase` en el idioma seleccionado; consulte la solución inicial para obtener más detalles) de forma que cada letra minúscula se convierta en mayúscula y cada letra mayúscula se convierta en minúscula. Por ejemplo:
 
 ```javascript

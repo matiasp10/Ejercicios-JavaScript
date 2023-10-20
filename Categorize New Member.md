@@ -1,3 +1,5 @@
+#7kyu 
+___
 # Categorizar Miembro Nuevo
 
 El Western Suburbs Croquet Club tiene dos categorías de socios: Senior y Open. Les gustaría que les ayudaras con un formulario de solicitud que indicará a los futuros socios en qué categoría se encuadrarán.
@@ -22,7 +24,6 @@ output = ["Open", "Open", "Senior", "Open", "Open", "Senior"]
 ## Link del problema
 
 [Problema](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript)
-
 ## Mi solución
 
 ```js

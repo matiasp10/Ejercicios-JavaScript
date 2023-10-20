@@ -1,3 +1,5 @@
+#Easy 
+___
 # Número palíndromo
 
 Dado un número entero x, devuelve true si x es un palíndromo y falso en caso contrario.

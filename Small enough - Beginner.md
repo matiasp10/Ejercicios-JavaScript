@@ -1,3 +1,5 @@
+#7kyu 
+___
 Se le dará una matriz y un valor límite. Debe comprobar que todos los valores de la matriz son inferiores o iguales al valor límite. Si es así, devuelve true. Si no, devuelve false.  
   
 Puedes asumir que todos los valores del array son números.

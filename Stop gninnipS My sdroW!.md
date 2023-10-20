@@ -1,3 +1,5 @@
+#6kyu 
+___
 # ¡Deja de ralih mis sarbalap!
 
 Escriba una función que reciba una cadena de una o más palabras y devuelva la misma cadena, pero con todas las palabras de cinco o más letras invertidas (como el nombre de esta Kata). Las cadenas introducidas constarán solo de letras y espacios. Los espacios se incluirán solo cuando haya más de una palabra.

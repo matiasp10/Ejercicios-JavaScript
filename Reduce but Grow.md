@@ -1,3 +1,5 @@
+#8kyu 
+___
 Dada una matriz no vacía de enteros, devuelve el resultado de multiplicar los valores juntos en orden. 
 
 ## Ejemplo

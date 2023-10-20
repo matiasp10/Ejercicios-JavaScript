@@ -1,3 +1,5 @@
+#8kyu 
+___
 Tu tarea consiste en encontrar el primer elemento de una matriz que no sea consecutivo.  
   
 Por no consecutivo entendemos que no sea exactamente 1 mayor que el elemento anterior de la matriz.  

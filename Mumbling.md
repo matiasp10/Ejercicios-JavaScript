@@ -1,3 +1,5 @@
+#7kyu 
+___
 Esta vez ni historia ni teoría. Los ejemplos a continuación le muestran cómo escribir acumulación de funciones:
 
 ## Ejemplos

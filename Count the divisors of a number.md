@@ -1,3 +1,5 @@
+#7kyu 
+___
 Contar el número de divisores de un número entero positivo n.  
   
 Las pruebas aleatorias llegan hasta n = 500000.

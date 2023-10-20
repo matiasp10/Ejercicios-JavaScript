@@ -1,3 +1,5 @@
+#Easy 
+___
 # Dos sumas
 
 Dado un `array` **de enteros** `nums` y **un entero** `target`, devuelva los índices de los dos números tales que **sumen target**.

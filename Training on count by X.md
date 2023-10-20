@@ -1,3 +1,5 @@
+#8kyu 
+___
 Crea una función con dos argumentos que devuelva una matriz con los n primeros múltiplos de x.  
 
 Asume que tanto el número dado como el número de veces a contar serán números positivos mayores que 0.  

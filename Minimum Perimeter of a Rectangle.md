@@ -1,3 +1,5 @@
+#7kyu 
+____
 Un rectángulo puede definirse mediante dos factores: altura y anchura.  
 
 Su área se define como la multiplicación de ambos: alto * ancho.  

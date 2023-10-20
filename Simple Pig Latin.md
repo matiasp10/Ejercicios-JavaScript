@@ -1,3 +1,5 @@
+#5kyu 
+____
 # Latín de los cerdos
 
 Mueve la primera letra de cada palabra al final de la misma y añade "ay" al final de la palabra. Deja intactos los signos de puntuación.

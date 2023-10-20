@@ -1,3 +1,5 @@
+#8kyu 
+___
 Le preguntas a una niña pequeña: "¿Cuántos años tienes?". Ella siempre responde: "x años", donde x es un número aleatorio entre 0 y 9.  
   
 Escribe un programa que devuelva la edad de la niña (0-9) como un número entero.  

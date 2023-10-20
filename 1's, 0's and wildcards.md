@@ -1,3 +1,5 @@
+#5kyu
+____
 # 1's, 0's y comodines
 
 Se le da una cadena que contiene 0's, 1's y uno o más '?', donde ? es un comodín que puede ser 0 o 1.
@@ -15,7 +17,9 @@ Devuelve un array que contiene todas las posibilidades a las que se puede llegar
 > [!note] Notas
 > - No te preocupes por ordenar la salida.
 > - Tu cadena nunca estará vacía.
+## Link del problema
 
+https://www.codewars.com/kata/588f3e0dfa74475a2600002a
 ## Mi solución
 
 ```js

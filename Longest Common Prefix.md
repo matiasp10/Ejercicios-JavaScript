@@ -1,3 +1,5 @@
+#Easy 
+____
 # Prefijo común más largo
 
 Escriba una función para encontrar la cadena de prefijo común más larga entre una matriz de cadenas.

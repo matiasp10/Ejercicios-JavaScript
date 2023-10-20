@@ -1,3 +1,5 @@
+#7kyu 
+___
 # Hallar la diferencia simétrica
 
 El término matemático diferencia simétrica (△ o ⊕) de dos conjuntos es el conjunto de elementos que están en cualquiera de los dos conjuntos pero no en ambos. Por ejemplo, para los conjuntos A = {1, 2, 3} y B = {2, 3, 4}, A △ B = {1, 4}.
@@ -5,7 +7,9 @@ El término matemático diferencia simétrica (△ o ⊕) de dos conjuntos es el
 La diferencia simétrica es una operación binaria, lo que significa que sólo opera sobre dos elementos. Así que para evaluar una expresión que implica diferencias simétricas entre tres elementos (A △ B △ C), debe completar una operación a la vez. Así, para los conjuntos A y B anteriores, y C = {2, 3}, A △ B △ C = (A △ B) △ C = {1, 4} △ {2, 3} = {1, 2, 3, 4}.
 
 Cree una función que tome dos o más matrices y devuelva una matriz con su diferencia simétrica. La matriz devuelta debe contener sólo valores únicos (sin duplicados).
+## Link del problema
 
+https://www.codewars.com/kata/5884f4727987a2a561000147
 ## Solución 1
 
 ```js

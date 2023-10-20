@@ -1,3 +1,5 @@
+#8kyu 
+___
 Obtiene un array de números, devuelve la suma de todos los positivos.  
   
 Ejemplo `[1,-4,7,12] => 1 + 7 + 12 = 20`  

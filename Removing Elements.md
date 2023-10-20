@@ -1,3 +1,5 @@
+#8kyu 
+___
 Toma una matriz y elimina uno de cada dos elementos de la matriz. Mantén siempre el primer elemento y empieza a eliminar con el siguiente.
 ### Ejemplo
 

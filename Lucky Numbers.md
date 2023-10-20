@@ -1,3 +1,5 @@
+#Learning 
+____
 ## Introducción
 
 En JavaScript, los valores pueden ser de diferentes tipos. El cambio de tipo de una variable puede realizarse mediante una conversión de tipo explícita. Además, JavaScript también realiza coerción de tipos (conversión implícita de tipos) cuando el contexto lo requiere.

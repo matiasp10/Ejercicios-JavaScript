@@ -1,5 +1,5 @@
-#8kyu
-
+#8kyu 
+____
 # Binario falso
 
 Dada una cadena de dígitos, debe sustituir cualquier dígito inferior a 5 por '0' y cualquier dígito igual o superior a 5 por '1'. Devuelve la cadena resultante.

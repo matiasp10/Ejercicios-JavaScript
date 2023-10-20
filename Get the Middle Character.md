@@ -1,3 +1,5 @@
+#7kyu 
+___
 # **Encontrar el carácter del medio**
 
 Te van a dar una palabra. Tu trabajo es devolver el carácter central de la palabra. Si la longitud de la palabra es impar, devuelve el carácter del medio. Si la longitud de la palabra es par, devuelve los 2 caracteres del medio.

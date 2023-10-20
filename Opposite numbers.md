@@ -1,7 +1,8 @@
+#8kyu 
+___
 Very simple, given a number, find its opposite.
 
 Dado un numero, encontrar el opuesto
-
 ## Ejemplos
 
 ```

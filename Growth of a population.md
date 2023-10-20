@@ -1,3 +1,5 @@
+#7kyu 
+___
 En una pequeña ciudad la población es `p0 = 1000` al principio de un año. La población aumenta regularmente un `2 por ciento` al año y, además, 50 nuevos habitantes al año vienen a vivir a la ciudad. ¿Cuántos años necesita la ciudad para que su población sea mayor o igual a `p = 1200` habitantes?
 
 ```

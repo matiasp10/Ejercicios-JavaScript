@@ -1,3 +1,5 @@
+#7kyu 
+___
 En esta kata crearás una función que toma una lista de enteros no negativos y cadenas y devuelve una nueva lista con las cadenas filtradas.
 
 ## Ejemplos

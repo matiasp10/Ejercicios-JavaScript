@@ -1,3 +1,5 @@
+#8kyu 
+____
 Crear una función que acepte una cadena y un único carácter, y devuelva un entero del recuento de ocurrencias que el 2º argumento se encuentra en el primero.  
   
 Si no se encuentra ninguna ocurrencia, se devolverá un recuento de 0.

@@ -1,3 +1,5 @@
+#8kyu 
+___
 # Calculo del BMI
 
 Escribe la función bmi que calcula el índice de masa corporal (bmi = peso / altura2).
@@ -6,7 +8,6 @@ Escribe la función bmi que calcula el índice de masa corporal (bmi = peso / al
 - si el bmi <= 25.0 devuelve "Normal"
 - si el bmi <= 30,0 devuelve "Sobrepeso".
 - si el bmi > 30 devuelve "Obeso".
-
 ## Mi solución
 
 ```js

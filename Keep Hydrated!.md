@@ -1,3 +1,5 @@
+#8kyu 
+___
 A Nathan le encanta el ciclismo.  
   
 Como Nathan sabe que es importante mantenerse hidratado, bebe 0,5 litros de agua por hora de pedaleo.  

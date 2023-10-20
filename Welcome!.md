@@ -1,3 +1,5 @@
+#8kyu 
+___
 El BA de su empresa ha informado a marketing de que su sitio web tiene una gran audiencia en Escandinavia y los países vecinos. Marketing cree que sería estupendo dar la bienvenida a los visitantes en su propio idioma. Por suerte, ya utilizáis una API que detecta la ubicación del usuario, así que es fácil.
 
 - Piensa en una forma de almacenar los idiomas como base de datos. ¡Los idiomas se enumeran a continuación para que pueda copiar y pegar!  

@@ -1,3 +1,5 @@
+#7kyu 
+___
 Ben tiene una idea muy sencilla para obtener beneficios: compra algo y lo vuelve a vender. Por supuesto, esto no le daría ningún beneficio si se limitara a comprarlo y venderlo al mismo precio. En lugar de eso, va a comprarlo al precio más bajo posible y venderlo al más alto.
 
 Escribe una función que devuelva tanto el número mínimo como el máximo de la lista/matriz dada.

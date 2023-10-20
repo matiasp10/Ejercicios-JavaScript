@@ -1,3 +1,5 @@
+#6kyu 
+___
 # La cola del supermercado
 
 En el supermercado hay una cola de espera para las cajas automáticas. Tu tarea es escribir una función que calcule el tiempo total que necesitan todos los clientes para pasar por caja.

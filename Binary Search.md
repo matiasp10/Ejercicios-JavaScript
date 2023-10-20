@@ -1,3 +1,5 @@
+#Easy 
+___
 # Búsqueda binaria
 
 Dada una matriz de números enteros `nums` ordenados de forma ascendente y un `target` entero, escriba una función que busque el objetivo en números enteros. Si el objetivo existe, devuelve su índice. En caso contrario, devuelve -1.

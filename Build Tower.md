@@ -1,5 +1,4 @@
 #6kyu 
-
 # Construir torre
 
 Construir una torre en forma de pirámide, como una matriz/lista de cadenas, dado un número entero positivo de pisos. Un bloque de torre se representa con el carácter "`*`".

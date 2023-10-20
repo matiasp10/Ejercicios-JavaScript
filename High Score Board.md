@@ -1,3 +1,5 @@
+#Learning 
+____
 Además de los tipos de datos primitivos como número y cadena, hay otro tipo de datos importante en JavaScript llamado objeto. Los objetos son colecciones de pares clave-valor. Como tales, pueden utilizarse del mismo modo que lo que en otros lenguajes se suele denominar mapas o diccionarios.  
   
 En otros lenguajes, todos los valores de un mapa deben tener el mismo tipo de datos. En JavaScript, sólo el tipo de la clave está restringido: tiene que ser una cadena. Los valores dentro de un objeto pueden tener diferentes tipos. Pueden ser tipos primitivos como números, pero también matrices, otros objetos o incluso funciones. Esto hace que los objetos sean muy versátiles, por lo que también son entidades clave para la programación orientada a objetos (POO) en JavaScript.  

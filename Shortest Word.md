@@ -1,3 +1,5 @@
+#7kyu 
+____
 Simple, dada una cadena de palabras, devuelve la longitud de la(s) palabra(s) más corta(s).  
   
 La cadena nunca estará vacía y no es necesario tener en cuenta los diferentes tipos de datos.

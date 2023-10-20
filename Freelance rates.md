@@ -1,3 +1,5 @@
+#Learning 
+____
 # Tarifas freelance
 
 En este ejercicio escribirás código para ayudar a un autónomo a comunicarse con sus clientes sobre los precios de ciertos proyectos. Escribirás algunas funciones de utilidad para calcular rápidamente los costes para los clientes.

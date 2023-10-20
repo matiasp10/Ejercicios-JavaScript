@@ -1,3 +1,5 @@
+#8kyu 
+___
 Se le dará una matriz a y un valor x. Todo lo que tiene que hacer es comprobar si la matriz proporcionada contiene el valor.  
   
 La matriz puede contener números o cadenas. X puede ser cualquiera de los dos.  

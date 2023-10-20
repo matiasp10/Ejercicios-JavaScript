@@ -1,5 +1,6 @@
+#8kyu 
+___
 ¡A jugar! ¡Tienes que devolver qué jugador ha ganado! En caso de empate ¡devuelve Empate!.
-
 ## Ejemplos
 
 ```

@@ -1,3 +1,5 @@
+#8kyu 
+___
 Después de un duro trimestre en la oficina decides descansar un poco en vacaciones. Así que reservarás un vuelo para ti y tu novia e intentarás dejar atrás todo el desorden.  
   
 Necesitarás un coche de alquiler para desplazarte durante tus vacaciones. El encargado del alquiler de coches te hace unas buenas ofertas.  

@@ -1,3 +1,5 @@
+#7kyu 
+___
 En una fábrica, un impresor imprime etiquetas para cajas. Para un tipo de cajas, el impresor tiene que utilizar colores que, en aras de la simplicidad, se nombran con letras de la `A a la M`.  
   
 Los colores utilizados por la impresora se registran en una cadena de control. Por ejemplo, una "buena" cadena de control sería `aaabbbbhaijjjm`, que significa que la impresora utilizó tres veces el color a, cuatro veces el color b, una vez el color h y luego una vez el color a...  

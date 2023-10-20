@@ -1,10 +1,14 @@
+#8kyu 
+___
 Given a random non-negative number, you have to return the digits of this number within an array in reverse order.
 
 Dado un número aleatorio no negativo, hay que devolver los dígitos de este número dentro de una matriz en orden inverso.
 
 Example:
-348597 => [7,9,5,8,4,3]
 
+```js
+348597 => [7,9,5,8,4,3]
+```
 ###### Mi solucion:
 ````js
 function digitize(n) {

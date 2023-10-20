@@ -1,3 +1,5 @@
+#7kyu 
+___
 # Recuento de vocales
 
 Devuelve el número (cuenta) de vocales en la cadena dada.

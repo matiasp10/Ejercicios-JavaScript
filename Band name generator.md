@@ -1,5 +1,5 @@
-#7kyu
-
+#7kyu 
+___
 # Generador de nombres de grupos musicales
 
 Mi amiga quiere un nuevo nombre para su banda. A ella le gustan las bandas que usan la fórmula "The" + un sustantivo con la primera letra en mayúscula, por ejemplo:

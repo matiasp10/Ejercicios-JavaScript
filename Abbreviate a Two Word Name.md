@@ -1,3 +1,5 @@
+#8kyu 
+____
 # Abreviar un nombre de dos palabras
 
 Escribe una función para convertir un nombre en iniciales. Esta kata toma estrictamente dos palabras con un espacio entre ellas.

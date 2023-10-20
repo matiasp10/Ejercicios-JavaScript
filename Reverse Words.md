@@ -1,3 +1,5 @@
+#7kyu 
+___
 Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.
 
 Complete la función que acepta un parámetro de cadena y que invierte cada palabra de la cadena. Todos los espacios de la cadena deben ser conservados.

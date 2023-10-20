@@ -1,7 +1,8 @@
+#7kyu 
+___
 Los cajeros automáticos permiten códigos PIN de 4 ó 6 dígitos y los códigos PIN no pueden contener más que exactamente 4 dígitos o exactamente 6 dígitos.  
   
 Si a la función se le pasa una cadena PIN válida, devuelve true, en caso contrario devuelve false.
-
 ## Ejemplos
 
 ```js
@@ -9,7 +10,6 @@ Si a la función se le pasa una cadena PIN válida, devuelve true, en caso contr
 "12345"  -->  false
 "a234"   -->  false
 ```
-
 ## Mi solución
 
 Forma corta con el operador ternario

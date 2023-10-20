@@ -1,3 +1,5 @@
+#7kyu 
+___
 En la ciudad circula un autobús que lleva y deja a algunas personas en cada parada.  
 
 Se le proporciona una lista (o matriz) de pares de números enteros. Los elementos de cada par representan el número de personas que suben al autobús (el primer elemento) y el número de personas que bajan del autobús (el segundo elemento) en una parada de autobús.  

@@ -1,3 +1,5 @@
+#Learning 
+___
 ## Introducción 
 
 A diferencia de muchos otros lenguajes, en JavaScript existen dos entidades diferentes que representan la ausencia de un valor (significativo). Existe null y undefined.

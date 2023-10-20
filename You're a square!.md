@@ -1,3 +1,5 @@
+#7kyu 
+___
 # Un cuadrado de cuadrados
 
 Te gustan los bloques de construcción. Te gustan especialmente los bloques de construcción cuadrados. Y lo que aún te gusta más es colocarlos en un cuadrado de bloques de construcción cuadrados.

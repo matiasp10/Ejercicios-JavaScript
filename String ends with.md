@@ -1,3 +1,5 @@
+#7kyu 
+___
 # ¿La cadena termina en?
 
 Completa la solución para que devuelva verdadero si el primer argumento (cadena) pasado termina con el 2º argumento (también una cadena).

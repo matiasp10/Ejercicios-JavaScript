@@ -1,3 +1,5 @@
+#Learning 
+___
 # Política de puertas del Club de Poesía
 
 Se ha abierto un nuevo club de poesía en la ciudad y estás pensando en ir. Como ha habido incidentes en el pasado, el club tiene una política de puertas muy específica que tendrás que dominar antes de intentar entrar.

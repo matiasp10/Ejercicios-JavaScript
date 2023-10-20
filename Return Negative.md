@@ -1,3 +1,5 @@
+#8kyu 
+___
 # Devolución Negativa
 
 En esta sencilla tarea te dan un número y tienes que hacerlo negativo. Pero, ¿quizá el número ya es negativo?

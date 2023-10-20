@@ -1,3 +1,5 @@
+#7kyu 
+___
 Se da una matriz `arr` de índice cero formada por n enteros. El dominador de la matriz `arr` es el valor que aparece en más de la mitad de los elementos de `arr`.  
 Por ejemplo, consideremos una matriz `arr` tal que `arr = [3,4,3,2,3,1,3,3]`.  
 El dominador de `arr` es **3** porque aparece en 5 de los 8 elementos de `arr` y 5 es más de la mitad de 8.  

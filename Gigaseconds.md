@@ -1,3 +1,5 @@
+#Learning 
+___
 # Giga segundos
 
 Dado un momento, determina el momento en que transcurriría un giga segundo.

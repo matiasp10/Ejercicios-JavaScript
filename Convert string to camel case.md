@@ -1,5 +1,4 @@
 #6kyu
-
 # Convertir cadena a camel case
 
 Complete el método/función para que convierta las palabras delimitadas por guiones/guiones bajos en mayúsculas y minúsculas. La primera palabra de la salida debe ir en mayúsculas sólo si la palabra original iba en mayúsculas (lo que se conoce como Mayúsculas Camel Case, también conocido como Pascal case). Las palabras siguientes deben ir siempre en mayúsculas.
