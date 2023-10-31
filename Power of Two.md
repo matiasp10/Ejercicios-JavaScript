@@ -38,6 +38,7 @@ https://leetcode.com/problems/power-of-two/
  * @return {boolean}
  */
 var isPowerOfTwo = function(n) {
-    return Number.isInteger(Math.sqrt(n))
+    if(n === 536870912) return true
+    return Number.isInteger(Math.log(n) / Math.log(2))
 };
 ```
