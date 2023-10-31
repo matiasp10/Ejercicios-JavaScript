@@ -42,3 +42,21 @@ var isPowerOfTwo = function(n) {
     return Number.isInteger(Math.log(n) / Math.log(2))
 };
 ```
+
+## Otra solución
+
+Para resolver este problema, podemos utilizar el operador bitwise "&". Realiza una operación AND en cada par de bits.  
+  
+El resultado de a & b es sólo uno cuando los bits a y b son ambos uno.
+
+![[Pasted image 20231031190145.png]]
+
+También puede ver la siguiente imagen para comprender la esencia con más detalle)
+
+![[Pasted image 20231031190155.png]]
+
+```javascript
+var isPowerOfTwo = function(n) {
+    return n > 0 && (n & n - 1) === 0;
+};
+```
