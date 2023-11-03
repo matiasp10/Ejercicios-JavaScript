@@ -15,7 +15,7 @@ data:
     score: 23
   - item: "Easy"
     user: "Matias"
-    score: 8
+    score: 19
   - item: "Medium"
     user: "Matias"
     score: 0
@@ -46,6 +46,7 @@ options:
   area: {}
 ```
 ## Codewars
+
 ```chartsview
 #-----------------#
 #- chart type    -#
@@ -64,7 +65,7 @@ data:
     score: 23
   - item: "6kyu"
     user: "Matias"
-    score: 9
+    score: 11
   - item: "5kyu"
     user: "Matias"
     score: 3
@@ -121,7 +122,7 @@ data:
   - type: "7kyu"
     value: 23
   - type: "6kyu"
-    value: 9
+    value: 11
   - type: "5kyu"
     value: 3
   - type: "4kyu"
@@ -165,7 +166,7 @@ data:
   - label: " 7kyu"
     values: 23
   - label: " 6kyu"
-    values: 9
+    values: 11
   - label: " 5kyu"
     values: 3
   - label: " 4kyu"
