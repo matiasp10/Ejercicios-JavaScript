@@ -43,3 +43,10 @@ function manufacture(gifts, materials) {
   return aux;
 }
 ```
+## Puntuación
+
+- Puntos conseguidos: 270
+- 2639 ops/s (Más alto es mejor)
+- Complejidad cognitiva: 3(Más bajo es mejor)[](https://www.sonarsource.com/docs/CognitiveComplexity.pdf)
+
+Los retos son puntuados utilizando diferentes factores como la complejidad cognitiva y la velocidad de ejecución. El número de líneas no es un factor determinante.
