@@ -10,6 +10,8 @@ Dado [[3, 2, 1], [4, 6, 5], [], [9, 7, 8]], su función debe devolver [1, 2, 3, 
 
 ## Link del problema
 
+https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/train/javascript
+
 ## Mi solución 
 
 ```ts
