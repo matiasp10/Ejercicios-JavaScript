@@ -30,7 +30,7 @@ String.prototype.isUpperCase = function() {
 ```
 
 - [[This]]
-- [[JavaScript/Tipos de datos/String]]
+- [[Programación Web/JavaScript/Tipos de datos/String]]
 - [[String.prototype.toUpperCase()]]
 
 __________

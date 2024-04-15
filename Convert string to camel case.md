@@ -28,7 +28,7 @@ function toCamelCase(str) {
 }
 ```
 
-[[JavaScript/Tipos de datos/String|String]]
+[[Programación Web/JavaScript/Tipos de datos/String|String]]
 [[String.prototype.toUpperCase()]]
 
 __________

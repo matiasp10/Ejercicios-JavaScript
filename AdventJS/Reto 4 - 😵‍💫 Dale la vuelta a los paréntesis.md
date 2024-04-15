@@ -28,7 +28,7 @@ Notas:
 
 ```js
 function decode(message) {
-  const regex = /\(([^()]+)\)/g
+  const regex = /([()]+)/g
   return message
     .replace(regex, (_, word) => [...word].reverse().join(""))
     .replace(regex, (_, word) => [...word].reverse().join(""))

@@ -28,7 +28,7 @@ function bandNameGenerator(str) {
 }
 ```
 
-[[JavaScript/Tipos de datos/String|String]]
+[[Programación Web/JavaScript/Tipos de datos/String|String]]
 [[String.prototype.toUpperCase()]]
 [[String.prototype.slice()]]
 

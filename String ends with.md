@@ -23,7 +23,7 @@ function solution(str, ending){
 }
 ```
 
-- [[JavaScript/String/String|String]]
+- [[Programación Web/JavaScript/String/String|String]]
 - [[String.prototype.endsWith()]]
 
 __________
